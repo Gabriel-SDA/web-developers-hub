@@ -23,13 +23,15 @@ header, section, footer{
 #imagem-perfil{
     width: 100%;
     max-width: 600px;
+
 }
 .button{
-    background-color: blue;
+    background-color: rgb(51, 255, 0);
     color: white;
     padding: 1em;
     margin: 1em 0;
     display: inline-block;
     text-decoration: none;
     border-radius: 0.5em;
+    top: 50px;
 }
